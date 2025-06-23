@@ -1,0 +1,1 @@
+# Resize_the_Colored_Video_to-50-smaller-_using_OpenCV

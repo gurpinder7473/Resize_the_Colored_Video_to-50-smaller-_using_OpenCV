@@ -12,10 +12,5 @@ A simple Python script to resize any colored video to half its original dimensio
 - 📝 Includes user prompts and progress indicators (if desired
 
 
-🔧 Requirements
-Make sure you have the following installed:
-
-pip install opencv-python
-
 
 
